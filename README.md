@@ -7,7 +7,7 @@
 You need step to step with this. 
 https://github.com/oney/react-native-webrtc/blob/master/Documentation/AndroidInstallation.md
 ```
-4. Config With IOSL 
+4. Config With IOS
 ```
 You need step to step with this.
 https://github.com/oney/react-native-webrtc/blob/master/Documentation/iOSInstallation.md
